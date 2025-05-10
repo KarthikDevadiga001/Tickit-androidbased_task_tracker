@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tickit</string>
+    <string name="this_will_be_our_fragment">this will be our fragment</string>
+    <string name="task">Task</string>
+    <string name="new_task">New Task</string>
+    <string name="dialog_edit_text_task_description">Add details\n</string>
+    <string name="add_task_star">add task star</string>
+    <string name="add_details">Add details</string>
+    <string name="save_button_text">Save</string>
+</resources>
