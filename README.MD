@@ -10,20 +10,6 @@
 - **UI:** XML + Kotlin
 - **Database:** Room Database
 
----
 
-## 📂 Project Structure (Optional)
 
-```bash
-Tickit/
-├── app/
-│   ├── ui/
-│   │   ├── activities/
-│   │   ├── components/
-│   │   └── theme/
-│   ├── data/
-│   │   ├── models/
-│   │   ├── database/
-│   │   └── repository/
-│   └── utils/
-└── README.md
+
